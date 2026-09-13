@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="game xí ngầu/game xí ngầu.csproj" />
+  <Project Path="game xí ngầu/game xí ngầu.csproj" Id="d55f5324-fcf2-4275-b4ea-3074d972645a" />
+  <Project Path="game đoán số/game đoán số.csproj" Id="e8fb208c-a97c-4db4-9d36-a06ed7fd97f9" />
 </Solution>

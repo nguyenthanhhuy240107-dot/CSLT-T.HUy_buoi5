@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D55F5324-FCF2-4275-B4EA-3074D972645A}</ProjectGuid>
+    <ProjectGuid>{E8FB208C-A97C-4DB4-9D36-A06ED7FD97F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>game_xí_ngầu</RootNamespace>
-    <AssemblyName>game xí ngầu</AssemblyName>
+    <RootNamespace>game_đoán_số</RootNamespace>
+    <AssemblyName>game đoán số</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="game_xí_ngầu.cs" />
+    <Compile Include="game_đoán_số.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
