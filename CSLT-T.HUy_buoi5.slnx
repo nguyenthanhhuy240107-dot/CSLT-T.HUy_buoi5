@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Ex.6/Ex.6.csproj" Id="13a9ec79-e6b0-4ba3-8ed2-b506fe9bfc0a" />
+  <Project Path="Ex.7/Ex.7.csproj" Id="db8b2720-f148-411a-8351-f6c8900eedfd" />
   <Project Path="game xí ngầu/game xí ngầu.csproj" Id="d55f5324-fcf2-4275-b4ea-3074d972645a" />
   <Project Path="game đoán số/game đoán số.csproj" Id="e8fb208c-a97c-4db4-9d36-a06ed7fd97f9" />
 </Solution>
